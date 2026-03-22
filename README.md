@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Rareș [ ˈra.reʃ ]
 
-<!--
-**TaflanRares/TaflanRares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student from Brașov, Romania.
 
-Here are some ideas to get you started:
+---
+| Project | Stack | |
+|---|---|---|
+| 🥽 VR Circuits | Unreal Engine, C++ | [devpost](https://devpost.com/software/vrcircuits) |
+| 🚀 Lingua Astra | Unreal Engine, C++ | [itch.io](https://itch.io/jam/2025-epic-megajam/rate/3985405) |
+| 🔴 Regolith Red | Godot, GDScript | [github](https://github.com/TaflanRares/regolith-red-project) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+🌐 [rarestaflan.dev](https://rarestaflan.dev) &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/rarestaflan)
