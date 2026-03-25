@@ -2,6 +2,8 @@
 
 Computer Engineering student from Brașov, Romania.
 
+[Bluestreamline](https://bluestreamline.ro/en/formula-sae/) EV software department member
+
 ---
 | Project | Stack | |
 |---|---|---|
