@@ -10,6 +10,6 @@ Computer Engineering student from Brașov, Romania.
 | 🥽 VR Circuits | Unreal Engine, C++ | [devpost](https://devpost.com/software/vrcircuits) |
 | 🚀 Lingua Astra | Unreal Engine, C++ | [itch.io](https://itch.io/jam/2025-epic-megajam/rate/3985405) |
 | 🔴 Regolith Red | Godot, GDScript | [github](https://github.com/TaflanRares/regolith-red-project) |
-
+| 🖨️ VAM Sim | Pyvista, GTest, C++ | [github](https://github.com/MateiSteavu/code-the-future-2026/tree/Electrosfera)|
 ---
 🌐 [rarestaflan.dev](https://rarestaflan.dev) &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/rarestaflan)
